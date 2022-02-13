@@ -54,6 +54,7 @@ myselectionbox.checkCollision ( /* list of hitboxes */ );
     collidedhitboxes:[ /* list of hitboxes */ ],
     collidedindicies:[ /* list of the indexes of those hitboxes */ ]
 }
-```<br><br>
+```
+<br><br>
 Note:
 This was developed by Che Yu; He is my ten year old kid. 

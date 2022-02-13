@@ -1,6 +1,4 @@
-<!--
-Che Yu; He is my ten year old kid. 
--->
+
 # Selection box
 Selection box allows you to create a box that can select elements.
 ## How to use
@@ -56,4 +54,6 @@ myselectionbox.checkCollision ( /* list of hitboxes */ );
     collidedhitboxes:[ /* list of hitboxes */ ],
     collidedindicies:[ /* list of the indexes of those hitboxes */ ]
 }
-```
+```<br><br>
+Note:
+This was developed by Che Yu; He is my ten year old kid. 
